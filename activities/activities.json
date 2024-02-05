@@ -1,0 +1,33 @@
+[
+    {
+      "logo": "./activities/plan.png",
+      "title": "Yayasan Plan International Indonesia",
+      "institution": "Member of Bootcamp 'Web Programming'",
+      "year": "November 2023 - Present"
+    },
+    {
+      "logo": "./activities/kmmi.jpg",
+      "title": "Kredensial Mikro Mahasiswa Indonesia Kemendikbud",
+      "institution": "Member of Course 'Branding untuk Bisnis'",
+      "year": "August - October 2021"
+    },
+    {
+      "logo": "./activities/kcci.png",
+      "title": "Korean Cultural Center Indonesia",
+      "institution": "Member of Course 'Spacing Words In Korean'",
+      "year": "April 2021"
+    },
+    {
+      "logo": "./activities/bakor.jpg",
+      "title": "Mading Bakor Unas",
+      "institution": "Member of Organization 'Kegiatan Mading'",
+      "year": "2018 - 2019"
+    },
+    {
+      "logo": "./activities/tari.jpg",
+      "title": "School",
+      "institution": "Member of Extracurricular 'Tari Daerah Tradisional'",
+      "year": "During primary, secondary, higher education level"
+    }
+]
+  

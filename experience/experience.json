@@ -1,0 +1,27 @@
+[
+    {
+      "logo": "./experience/receptionist.png",
+      "title": "PT. Mitra Abadi Karya",
+      "institution": "Full Time Receptionist",
+      "year": "January - November 2023"
+    },
+    {
+      "logo": "./experience/sf.png",
+      "title": "PT. Smartfren Telecom Tbk. ",
+      "institution": "Part Time Sales 4G Smartfren",
+      "year": "November - December 2022"
+    },
+    {
+      "logo": "./experience/barista.png",
+      "title": "Red Alkie X Tipsy Pizza",
+      "institution": "Full Time Captain Barista/Waitress",
+      "year": "May - October 2022"
+    },
+    {
+      "logo": "./experience/fave.png",
+      "title": "Fave Hotel PGC Cililitan",
+      "institution": "Internship - Part Time F&B Service and Banquet",
+      "year": "December 2015 - July 2016 & 2017 - 2018"
+    }
+]
+  

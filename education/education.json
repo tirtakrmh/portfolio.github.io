@@ -1,0 +1,21 @@
+[
+    {
+      "logo": "./education/unindra.png",
+      "title": "Indraprasta PGRI University",
+      "institution": "Banchelor of Informatics Engineering",
+      "year": "2020 - 2024"
+    },
+    {
+      "logo": "./education/unas.png",
+      "title": "National University",
+      "institution": "Banchelor of Korean Education",
+      "year": "2018 - 2019"
+    },
+    {
+      "logo": "./education/sky2.jpg",
+      "title": "Sky 2 Vocational High School",
+      "institution": "Majoring in Hotel Accommodation",
+      "year": "2014 - 2017"
+    }
+]
+  
